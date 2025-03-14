@@ -1,5 +1,5 @@
 Step 1: Download file 
 
+step 2: Type in terminal npm i to download required node modules for both Frintend and Backend 
 
-
-step 2: type in terminal npm i to download node modules
+Step 3: Then Start the both files.
